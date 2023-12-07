@@ -1,4 +1,4 @@
-This practicum comprises 4 problems, worth equal each. You may choose
+This practicum comprises 4 problems, worth equal points each. You may choose
 to attempt the problems in any order, but the suggested order is listed below.
 
 The ONLY comment you are required to write in each module is a file comment 
@@ -35,7 +35,7 @@ you. Feel free to write helper functions as needed.
    Create a Python class to represent a book. It must include the 
    following features:
    - As always, use proper encapsulation for all attributes.
-   - A book capsule is initialized with the title, author, and publication year.
+   - A toy capsule is initialized with the title, author, and publication year.
    - Accessors for all attributes.
    - A compact string representation in the format "<title> by <author> 
      (<publication year>)". For example, "1984 by George Orwell (1949)".
